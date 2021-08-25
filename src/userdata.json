@@ -1,0 +1,121 @@
+{
+  "user": [
+    {
+      "photo": "C:\\fakepath\\team_02.jpg",
+      "firstName": "shruti ",
+      "lastName": "hasan",
+      "email": "hasan@gmail.com",
+      "phone": "9867446368",
+      "age": 27,
+      "state": "Goa",
+      "country": "India",
+      "tags": "",
+      "address": "panjee",
+      "id": 3
+    },
+    {
+      "photo": "",
+      "firstName": "sagar",
+      "lastName": "poddar",
+      "email": "sagar@gmail.com",
+      "phone": "1233738388",
+      "age": 28,
+      "state": "Maharashtra",
+      "country": "India",
+      "tags": "",
+      "address": "dombivali",
+      "id": 4
+    },
+    {
+      "photo": "C:\\fakepath\\c2.jpg",
+      "firstName": "Om",
+      "lastName": "pal",
+      "email": "om@gmail.com",
+      "phone": "9898989898",
+      "age": 28,
+      "state": "Maharashtra",
+      "country": "India",
+      "tags": "moovie",
+      "address": "kalyan",
+      "id": 5
+    },
+    {
+      "photo": "C:\\fakepath\\c2.jpg",
+      "firstName": "prakash",
+      "lastName": "pal",
+      "email": "pal@gmail.com",
+      "phone": "9867446368",
+      "age": 25,
+      "state": "Maharashtra",
+      "country": "India",
+      "tags": "football",
+      "address": "badlapur",
+      "id": 6
+    },
+    {
+      "photo": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "age": "",
+      "state": "",
+      "country": "",
+      "tags": "",
+      "address": "",
+      "id": 7
+    },
+    {
+      "photo": "C:\\fakepath\\team_02.jpg",
+      "firstName": "monu",
+      "lastName": "pal",
+      "email": "pal@gmail.com",
+      "phone": "9808299290",
+      "age": 29,
+      "state": "Delhi",
+      "country": "US",
+      "tags": "",
+      "address": "canought place",
+      "id": 8
+    },
+    {
+      "photo": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "age": "",
+      "state": "",
+      "country": "",
+      "tags": "",
+      "address": "",
+      "id": 9
+    },
+    {
+      "photo": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "age": "",
+      "state": "",
+      "country": "",
+      "tags": "",
+      "address": "",
+      "id": 10
+    },
+    {
+      "photo": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "age": "",
+      "state": "",
+      "country": "",
+      "tags": "",
+      "address": "",
+      "id": 11
+    }
+  ]
+}
